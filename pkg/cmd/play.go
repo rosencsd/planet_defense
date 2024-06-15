@@ -8,7 +8,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	h "github.com/nhan-ng/hammurabi/pkg/hammurabi"
+	h "github.com/rosencsd/planet_defense/pkg/hammurabi"
 )
 
 const (

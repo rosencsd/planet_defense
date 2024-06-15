@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/nhan-ng/hammurabi/pkg/cmd"
+	"github.com/rosencsd/planet_defense/pkg/cmd"
 )
 
 func main() {
